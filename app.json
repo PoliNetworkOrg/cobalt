@@ -39,6 +39,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "32a71a62-e6dc-454f-a227-8255a291d7e8"
+      }
+    },
+    "owner": "polinetwork-org"
   }
 }
